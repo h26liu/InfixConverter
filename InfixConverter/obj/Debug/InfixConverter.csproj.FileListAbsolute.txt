@@ -1,0 +1,52 @@
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\bin\Debug\InfixConverter.exe.config
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\bin\Debug\InfixConverter.exe
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\bin\Debug\InfixConverter.pdb
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\bin\Debug\ChoETL.Core.dll
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\bin\Debug\System.CodeDom.dll
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\bin\Debug\System.Data.SqlClient.dll
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csproj.CopyComplete
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\obj\Debug\InfixConverter.exe
+C:\Users\owner\Desktop\C# Project2\InfixConverter\InfixConverter\obj\Debug\InfixConverter.pdb
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\bin\Debug\InfixConverter.exe.config
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\bin\Debug\InfixConverter.exe
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\bin\Debug\InfixConverter.pdb
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\bin\Debug\ChoETL.Core.dll
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\bin\Debug\System.CodeDom.dll
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\bin\Debug\System.Data.SqlClient.dll
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csprojAssemblyReference.cache
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csproj.CoreCompileInputs.cache
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csproj.CopyComplete
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\obj\Debug\InfixConverter.exe
+C:\Users\eliu\Desktop\project2(c#)\c-project2\C# Project2\InfixConverter\InfixConverter\obj\Debug\InfixConverter.pdb
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\bin\Debug\InfixConverter.exe.config
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\bin\Debug\InfixConverter.exe
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\bin\Debug\InfixConverter.pdb
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\bin\Debug\ChoETL.Core.dll
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\bin\Debug\System.CodeDom.dll
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\bin\Debug\System.Data.SqlClient.dll
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csprojAssemblyReference.cache
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csproj.CoreCompileInputs.cache
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csproj.CopyComplete
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\obj\Debug\InfixConverter.exe
+C:\Users\eliu\Desktop\project2(c#)\InfixConverter\InfixConverter\obj\Debug\InfixConverter.pdb
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\bin\Debug\InfixConverter.exe.config
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\bin\Debug\InfixConverter.exe
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\bin\Debug\InfixConverter.pdb
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\bin\Debug\ChoETL.Core.dll
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\bin\Debug\System.CodeDom.dll
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\bin\Debug\System.ComponentModel.Annotations.dll
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\bin\Debug\System.Data.SqlClient.dll
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csprojAssemblyReference.cache
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csproj.CoreCompileInputs.cache
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\obj\Debug\InfixConverter.csproj.CopyComplete
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\obj\Debug\InfixConverter.exe
+E:\5th\info5101-c#-advanced\PROJECT 2\InfixConverter\InfixConverter\InfixConverter\obj\Debug\InfixConverter.pdb
